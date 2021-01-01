@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Alguém que se encontrou profissionalmente ao dar seu primeiro "print(Hello World)"! </br> </br> Atualmente estou realizando um estágio de Desenvolvimento Web utilizando tecnologias como: PHP, Javascript, Jquery, Api Rest, SQL e a plataforma VTEX.</p>
+<p>Alguém que se encontrou profissionalmente ao dar seu primeiro print("Hello World")! </br> </br> Atualmente estou realizando um estágio de Desenvolvimento Web utilizando tecnologias como: PHP, Javascript, Jquery, Api Rest, SQL e a plataforma VTEX.</p>
 
 <hr>
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### 📱 Vamos conversar! 🔝
+### 📱 Vamos conversar?! 🔝
 
 <span>
   <a href="https://api.whatsapp.com/send?phone=+55024988319362"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whats"/></a>
