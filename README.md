@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ### Stack Atual
 <span> 
-  
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -31,13 +30,24 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
-<img src="" alt=""/>
-<img src="" alt=""/>
-  
 </span>
 
+<hr>
+###📱Vamos conversar! 🔝
+<span>
+  <a href=" https://api.whatsapp.com/send?phone=+55024988319362"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whats"/></a>
+  <a href=""><img src="" alt=""/></a>
+  <a href=""><img src="" alt=""/></a>
+  <a href=""><img src="" alt=""/></a>
+  <a href=""><img src="" alt=""/></a>
+</span>
+
+<br><br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alancjo&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancjo&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
