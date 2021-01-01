@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <hr>
 
 ### Stack Atual
+
 <span> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-###📱Vamos conversar! 🔝
+### 📱Vamos conversar! 🔝
 
 <span>
   <a href="https://api.whatsapp.com/send?phone=+55024988319362"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whats"/></a>
