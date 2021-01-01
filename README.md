@@ -39,9 +39,8 @@ Here are some ideas to get you started:
 ### 📱 Vamos conversar?! 🔝
 
 <span>
-      <a href="https://www.linkedin.com/in/alan-oliveira-091639171/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/alan-oliveira-091639171/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://api.whatsapp.com/send?phone=+55024988319362"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whats"/></a>
-
   <a href="mailto:alancjobm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
 </span>
