@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alancjo&show_icons=true&theme=dracula)
 
