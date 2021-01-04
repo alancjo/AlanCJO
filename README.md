@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Stack Atual
+### Tecnologias
+<p> Estas são algumas das tecnologias e ferramentas que venho me aprimorando:
 
 <span> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
