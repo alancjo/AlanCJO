@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Alguém que se encontrou profissionalmente ao dar seu primeiro "Hello World"! </br> </br> Atualmente estou cursando o 3º período de Sistemas de Informação e realizando um estágio de Desenvolvimento Web utilizando tecnologias como: PHP, Laravel, Javascript, Jquery, Api REST e Oracle Database.</p>
+<p>Alguém que se encontrou profissionalmente ao dar seu primeiro "Hello World"! </br> </br> Atualmente estou cursando o 3º período de Sistemas de Informação e estudando Desenvolvimento Web com tecnologias como: PHP, Laravel, Javascript, Jquery, Api REST e Oracle Database.</p>
 
 <hr>
 
