@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Alguém que se encontrou profissionalmente ao dar seu primeiro "Hello World"! </br> </br> Atualmente estou cursando o 3º período de Sistemas de Informação e realizando um estágio em desenvolvimento full stack na fintech V360, utilizando as tecnologias: 
+<p>Alguém que se encontrou profissionalmente ao escrever seu primeiro "Hello World"! </br> </br> Atualmente estou cursando o 3º período de Sistemas de Informação e realizando um estágio em desenvolvimento full stack na fintech V360, utilizando as tecnologias: 
 
 - Rails;
 - Sidekiq;
