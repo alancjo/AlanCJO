@@ -1,19 +1,7 @@
 ### Hi, I'm Alan! 👋
 
-<p>Alguém que se encontrou profissionalmente ao escrever seu primeiro "Hello World"! </br> </br> Atualmente estou
-  cursando o 4º período de Sistemas de Informação e sou desenvolvedor trainee na Beep Saúde, utilizando as tecnologias:
-
-  - Rails;
-  - Sidekiq;
-  - Redis;
-  - PostgreSQL;
-  - Git&Github;
-  - Rspec;
-  - AWS;
-  - Javascript;
-  - HTML5;
-  - CSS
-  - Vuejs
+<p>
+Alguém que se encontrou profissionalmente ao escrever seu primeiro "Hello World"! </br> </br> Atualmente estou cursando o 4º período de Sistemas de Informação e sou desenvolvedor trainee na <a target="_blank" href="https://beepsaude.com.br/">Beep Saúde</a>.
 </p>
 
 <hr>
