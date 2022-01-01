@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 - Redis;
 - PostgreSQL;
 - Git&Github;
-- Rspec/Minitest;
+- Rspec;
 - AWS;
 - Javascript;
 - HTML5;
-- CSS </p>
+- CSS 
+- Vuejs
+</p>
 
 <hr>
 
@@ -36,10 +38,8 @@ Here are some ideas to get you started:
 <span> 
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vuejs"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </span>
@@ -60,5 +60,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alancjo&show_icons=true&theme=dracula)
+<a href="https://app.daily.dev/AlanCJO"><img src="https://api.daily.dev/devcards/b9b8fa211b1844f09cf6f53fdd348e7f.png?r=dyf" width="300" alt="Alan Oliveira's Dev Card"/></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancjo&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) -->
