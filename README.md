@@ -7,8 +7,6 @@ Alguém que se encontrou profissionalmente ao escrever seu primeiro "Hello World
 <hr>
 
 ### Tecnologias
-<p> Estas são algumas das tecnologias e ferramentas que venho me aprimorando:</p>
-
 <span>
   <img alt="Ruby"
     src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
