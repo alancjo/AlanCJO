@@ -48,8 +48,7 @@ Alguém que se encontrou profissionalmente ao escrever seu primeiro "Hello World
 <div align="center">
   <h3>Uma das minhas principais fontes de aprendizado, leitura :)</h3>
   <a href="https://app.daily.dev/AlanCJO">
-    <img src="https://api.daily.dev/devcards/b9b8fa211b1844f09cf6f53fdd348e7f.png?r=dyf" width="300px"
-      alt="Alan Oliveira's Dev Card" />
+    <img src="https://api.daily.dev/devcards/b9b8fa211b1844f09cf6f53fdd348e7f.png?r=qms" width="300" alt="Alan Oliveira's Dev Card"/>
   </a>
 
   ![Snake animation](https://github.com/alancjo/alancjo/blob/output/github-contribution-grid-snake.svg)
