@@ -1,12 +1,12 @@
 ### Hi, I'm Alan! 👋
 
 <p>
-Alguém que se encontrou profissionalmente ao escrever seu primeiro "Hello World"! </br> </br> Atualmente estou cursando o 4º período de Sistemas de Informação e sou desenvolvedor junior na <a target="_blank" href="https://beepsaude.com.br/">Beep Saúde</a>.
+Someone who found himself professionally while writing his first "Hello World"! </br> </br> I'm currently studying Analysis and Systems Development expected to be completed in the second half of 2023, and I'm a Junior Software Developer at <a target="_blank" href="https://beepsaude.com.br/">Beep Saúde</a >.
 </p>
 
 <hr>
 
-### Tecnologias
+### Technologies
 <span>
   <img alt="Ruby"
     src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
@@ -46,7 +46,7 @@ Alguém que se encontrou profissionalmente ao escrever seu primeiro "Hello World
 </div>
 
 <div align="center">
-  <h3>Uma das minhas principais fontes de aprendizado, leitura :)</h3>
+  <h3>One of my main sources of learning, reading :)</h3>
   <a href="https://app.daily.dev/AlanCJO">
     <img src="https://api.daily.dev/devcards/b9b8fa211b1844f09cf6f53fdd348e7f.png?r=qms" width="300" alt="Alan Oliveira's Dev Card"/>
   </a>
