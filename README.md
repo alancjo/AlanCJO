@@ -1,7 +1,7 @@
 ### Hi, I'm Alan! 👋
 
 <p>
-Someone who found himself professionally while writing his first "Hello World"! </br> </br> I'm currently studying Analysis and Systems Development expected to be completed in the second half of 2023, and I'm a Junior Software Developer at <a target="_blank" href="https://beepsaude.com.br/">Beep Saúde</a >.
+Someone who found himself professionally while writing his first "Hello World"! </br> </br> I'm currently studying Analysis and Systems Development expected to be completed in the second half of 2023, and I'm a Junior Software Developer at a healthtech, <a target="_blank" href="https://beepsaude.com.br/">Beep Saúde</a >.
 </p>
 
 <hr>
